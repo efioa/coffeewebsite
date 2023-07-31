@@ -413,7 +413,7 @@ body {
     width: 100%;
     min-height: 100vh;
     padding: 5%;
-    background-image:url(images.jpg/plant.svg);
+    background-image:url("images.jpg/plant.svg");
     background-position: center;
     background-size: cover;
     display: flex;
@@ -523,7 +523,7 @@ body {
 
 }
 .about__container {
-    background-image: url(images.jpg/plant.svg);
+    background-image: url("images.jpg/plant.svg");
     background-size:contain;
     background-repeat:no-repeat;
 }
