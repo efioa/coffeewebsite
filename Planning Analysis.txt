@@ -1,0 +1,27 @@
+GitHub link : https://github.com/efioa/coffeewebsite
+
+Planning Analysis: 
+
+My project is based on a coffee wholesale website, where users can source coffee from all over Latin America and Arabic Countries, while learning about how our brand DejaBrew is eco-friendly and is supporting fairtrade for the coffee farmers. 
+I absolutely love my coffee. The reason why I wanted to try and build this website is because I recently started to research into the whole coffee process as my partners family own a coffee plantation in Latin America and it really fascinated me how much work goes into it, how they are exploited due to them being a 3rd world country and how bigger organisations take full advantage of the poverty in these countries. So I guess I wanted to learn as I built this project but actually I had little time as my focus was purely trying to get my website to look half decent and responsive!
+
+Firstly, I wanted the site to be visually appealing. I wanted a dark background with bright headings that would stand out. I wanted there to be a colour theme which would tie in nicely with the colour of coffee beans, hence the decision to use a black background with orange/brown tones.
+There are a Homepage and 3 other pages (product page, About page and a review page). 
+
+Product Page:
+
+The product page is where the user can search for coffee by entering the type of coffee into the searchbar. Using JavaScript, once a match is found, the result will pop up below the searchbar with an image and a brief description and price per kilo.
+
+The navigation bar is present and it has a background of a map of the world illustration to tie in with the products we have from all over the world. Once the screen device is that of a smaller scale i.e smartphones, the toggle button comes into action. This toggle button gives mobile users better functionality with the devices display limits. Making scrolling and usage easier. Once the toggle menu is clicked, by the use of some simple JavaScript, the menu drops down displaying the other pages on the site. 
+
+
+About Page:
+
+The About Page is where we encourage our users to interact with us and to email us with any questions they have in regards to our products and our standards as a company. A simple email link button is used and sends the user to their email provider and they can instantly send us a message. The background image is an illustration of a plant growing, linking in with the plantation of coffee. 
+
+Review Page: 
+
+The review page has 2 Javascript functions. It has a container box which gives the user the option of giving us feedback by using emojis and a text area for further feedback. Once the feeedback send button is clicked, a popup alert box shows to make the user aware of the feedback submittion. The toggle menu is also available for mobile and smaller devices.
+
+
+
