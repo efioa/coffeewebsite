@@ -1,5 +1,6 @@
 GitHub repository link : https://github.com/efioa/coffeewebsite
 GitHub Pages Website Link: https://efioa.github.io/coffeewebsite/
+Figma WireFrame Link: https://www.figma.com/file/9YbrMTSuqUmZXLVRq08FXb/DejaBrew---Wireframe?type=design&node-id=0%3A1&mode=design&t=x0kC5SWubZfMiOEJ-1
 
 Planning Analysis: 
 
