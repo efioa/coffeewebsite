@@ -1,4 +1,5 @@
-GitHub link : https://github.com/efioa/coffeewebsite
+GitHub repository link : https://github.com/efioa/coffeewebsite
+GitHub Pages Website Link: https://efioa.github.io/coffeewebsite/
 
 Planning Analysis: 
 
